@@ -14,6 +14,7 @@ import javax.persistence.Table;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 
+// git status puis git add puis git commit
 @Entity
 @Table(name = "T_USER")
 public class User implements Serializable {
